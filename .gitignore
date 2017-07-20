@@ -1,0 +1,5 @@
+*.bmp
+*.png
+.vscode
+*.npy
+!sample.*
